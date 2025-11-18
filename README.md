@@ -85,9 +85,9 @@ https://api-ryukaa.vercel.app
 
 ## 📄 **License**
 
-<img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" alt="MIT License" />
+<img src="https://img.shields.io/badge/License-Ryukaa-green?style=for-the-badge" alt="MIT License" />
 
-**Distributed under the MIT License**
+**Distributed under the Ryukaa License**
 
 ---
 
