@@ -9,7 +9,7 @@
 
 <br><br>
 
-<img width="200" height="200" src="https://files.catbox.moe/2ybrj7.jpg" alt="Ryukaa Logo" style="border-radius: 50%; box-shadow: 0 10px 30px rgba(0,0,0,0.3);" />
+<img width="200" height="200" src="https://files.catbox.moe/dnxggy.png" alt="Ryukaa Logo" style="border-radius: 50%; box-shadow: 0 10px 30px rgba(0,0,0,0.3);" />
 
 <h2>🎯 Powerful REST API Solution</h2>
 <p><strong>Built with Node.js & Express.js by Ryukaa Team</strong></p>
